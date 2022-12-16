@@ -1,0 +1,36 @@
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+}
+
+.row, .jumbotron{
+	background-color: rgba(255,255,255,0.6);			
+	margin-bottom: 15px;
+	border-radius: 0px;
+}
+#kep{
+	margin-left: 1000px;
+	transform: translateY(-90%);
+	
+
+}
+
+p{
+	text-align: justify;
+	
+}
+label{
+	text-align: bold;
+}
+#cs{
+	background-color: rgb(81, 174, 81);
+}
+#sz{
+	background-color: rgb(135, 135, 75);
+}
+#v{
+	background-color: rgb(132, 86, 86);
+
+}
+
+
